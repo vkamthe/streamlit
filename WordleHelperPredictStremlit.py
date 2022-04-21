@@ -13,7 +13,7 @@ with open('dict.csv') as csv_file:
     
 
 WORD_LENGTH = 5
-ALLOWED_ATTEMPTS = 5
+ALLOWED_ATTEMPTS = 6
 
 def input_word(attempt):
     while True:
